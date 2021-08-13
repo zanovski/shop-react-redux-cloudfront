@@ -1,3 +1,6 @@
+[CloudFront](https://d2gj3hpq96uub8.cloudfront.net)
+[S3](http://rs-shop.s3-website-eu-west-1.amazonaws.com)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
